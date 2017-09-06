@@ -1,0 +1,9 @@
+a {
+	color: $accent1;
+	font-weight: 700;
+	text-decoration: none;
+	transition: color 0.3s;
+	&:hover {
+		color: $accent2;
+	}
+}
